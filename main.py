@@ -1,3 +1,0 @@
-print("Git Checking")
-
-
